@@ -1,4 +1,8 @@
-### Hi there 👋
+### Carlos H. Rueda C. 👋
+
+## Aficionado a los algoritmos, software, TI, y tecnologia en general
+
+Soy Ingeniero de Sitemas, Computación e Informática de **Colombia**. Experto en la enseñanza de la programación y la computación en general. He desarrollado software, liderado equipos de desarrollo, he sido freelance, emprendedor, CIO y actualmente docente.
 
 <!--
 **carloshrueda/carloshrueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
